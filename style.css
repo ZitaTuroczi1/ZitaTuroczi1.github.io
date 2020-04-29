@@ -40,7 +40,7 @@ a:visited{
 header {
   height:400px;
   width:800px;
-  background: center url("/apor_logo_.jpg");
+  background: center url("./apor_logo_.jpg");
   background-size:cover;
   background-repeat: no-repeat;
 
