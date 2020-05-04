@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(243, 223, 197);
+    /*background-color: rgb(243, 223, 197);*/
+    background: center url("./background_image_2.jpg");
+    background-size:cover;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -8,7 +10,7 @@ body {
     margin-right: auto;
     margin-top: 70px;
     display: flex;
-    width: 1000px;
+    width: 700px;
     height: 500px;
     box-shadow: grey 0px 3px 5px 3px;
     border-radius: 5px;
@@ -24,7 +26,8 @@ a {
     display: flex;
     width: 1000px;
     height: 500px;
-    color: white;
+    color: black;
+    font-weight: bold;
     text-decoration:none;
     font-size: 20px;
 
@@ -35,7 +38,7 @@ a {
     background-repeat: no-repeat;
     background-position: center;
     width: 50px;
-    background-color: ivory;
+    background-color: rgb(147, 0, 245);
     cursor: pointer;
     -webkit-transition: background-color .3s ease-out;
     -moz-transition: background-color .3s ease-out;
@@ -44,7 +47,7 @@ a {
 }
 
 #back-arrow:hover, #forward-arrow:hover {
-    background-color: wheat;
+    background-color: rgb(250, 0, 175);
 }
 
 #forward-arrow {
@@ -53,9 +56,11 @@ a {
 
 #img-container {
     width: 900px;
-    background-size: 900px 500px;
+    /*background-size: 900px 500px;*/
+    background-size:contain;
     background-repeat: no-repeat;
     position: relative;
+    background-position-x: center;
     -webkit-transition: background-image .3s ease-in-out;
     -moz-transition: background-image .3s ease-in-out;
     -o-transition: background-image .3s ease-in-out;
@@ -313,5 +318,102 @@ a {
 }
 
 .div6:hover #thumb-title6 {
+    visibility: visible;
+}
+
+.div7 #thumb-title7 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div7 #thumb-title7::after {
+    content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div7:hover #thumb-title7 {
+    visibility: visible;
+}
+
+
+.div8 #thumb-title8 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div8 #thumb-title8::after {
+    content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div8:hover #thumb-title8 {
+    visibility: visible;
+}
+
+.div9 #thumb-title9 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div9 #thumb-title9::after {
+    content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div9:hover #thumb-title9 {
     visibility: visible;
 }
