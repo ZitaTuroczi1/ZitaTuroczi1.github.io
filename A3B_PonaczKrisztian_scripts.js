@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3B_PonaczKrisztian_papirvaros.jpg', './A3B_PonaczKrisztian_3D.jpg', 
     './A3B_PonaczKrisztian_husvet.jpg', './A3B_PonaczKrisztian_jacint.jpg',
     './A3B_PonaczKrisztian_kepeslap.jpg', './A3B_PonaczKrisztian_malac.jpg',  
-    './A3B_PonaczKrisztian_.jpg', 
+    './A3B_PonaczKrisztian_pillango.jpg', 
     './A3B_PonaczKrisztian_.jpg',
     './A3B_PonaczKrisztian_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  '...', '...'
     ],
     description: ['...',
     '...',

@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3C_KovacsDaniel_papirvaros.jpg', './A3C_KovacsDaniel_3D.jpg',
     './A3C_KovacsDaniel_husvet.jpg', './A3C_KovacsDaniel_jacint.jpg',
     './A3C_KovacsDaniel_kepeslap.jpg', './A3C_KovacsDaniel_malac.jpg',  
-    './A3C_KovacsDaniel_.jpg', 
+    './A3C_KovacsDaniel_pillango.jpg', 
     './A3C_KovacsDaniel_.jpg', 
     './A3C_KovacsDaniel_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...', '...', '...'
+    'Pillangó hajtogatása', '...', '...'
     ],
     description: ['...',
     '...',

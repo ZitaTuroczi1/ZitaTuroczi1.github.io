@@ -1,15 +1,15 @@
 let data = {
     photo: ['./A3B_BencsicsJanka_papirvaros.jpg', './A3B_BencsicsJanka_3D.jpg', 
     './A3B_BencsicsJanka_husvet.jpg', './A3B_BencsicsJanka_jacint.jpg',
-    './A3B_BencsicsJanka_kepeslap.jpg', './A3B_BencsicsJanka_malac_1.jpg',  
-    './A3B_BencsicsJanka_malac_2.jpg', 
-    './A3B_BencsicsJanka_.jpg', 
+    './A3B_BencsicsJanka_kepeslap.jpg', './A3B_BencsicsJanka_malac.jpg',  
+    './A3B_BencsicsJanka_pillango_1.jpg', 
+    './A3B_BencsicsJanka_pillango_2.jpg', 
     './A3B_BencsicsJanka_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
-    'Varrott képeslap', 'Malacpersely','Malacpersely',
-    '...', '...'
+    'Varrott képeslap', 'Malacpersely','Pillangó hajtogatása',
+    'Pillangó hajtogatása', '...'
     ],
     description: ['...',
     '...',

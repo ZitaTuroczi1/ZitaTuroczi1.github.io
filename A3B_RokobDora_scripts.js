@@ -3,13 +3,13 @@ let data = {
     './A3B_RokobDora_husvet_1.jpg',  './A3B_RokobDora_husvet_2.jpg',
     './A3B_RokobDora_jacint.jpg',
     './A3B_RokobDora_kepeslap.jpg', './A3B_RokobDora_malac.jpg',  
-    './A3B_RokobDora_.jpg'
+    './A3B_RokobDora_pillango.jpg'
 ],
     title: ['Papírváros', '3D-s város', '3D-s város', 
     'Húsvét','Húsvét',
      'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-     '...'
+     'Pillangó hajtogatása'
     ],
     description: ['...',
     '...',

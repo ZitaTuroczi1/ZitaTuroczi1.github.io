@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3A_BenyatsKlaudia_papirvaros.jpg', './A3A_BenyatsKlaudia_3D.jpg', 
     './A3A_BenyatsKlaudia_husvet.jpg', './A3A_BenyatsKlaudia_jacint.jpg',
     './A3A_BenyatsKlaudia_kepeslap.jpg', './A3A_BenyatsKlaudia_malac.jpg',  
-    './A3A_BenyatsKlaudia_.jpg', 
+    './A3A_BenyatsKlaudia_pillango.jpg', 
     './A3A_BenyatsKlaudia_.jpg', 
     './A3A_BenyatsKlaudia_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  '...', '...'
     ],
     description: ['...',
     '...',

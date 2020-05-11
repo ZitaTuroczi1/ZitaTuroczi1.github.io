@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3C_SzegletBiborka_papirvaros.jpg', './A3C_SzegletBiborka_3D.jpg',
     './A3C_SzegletBiborka_husvet.jpg', './A3C_SzegletBiborka_jacint.jpg',
     './A3C_SzegletBiborka_kepeslap.jpg', './A3C_SzegletBiborka_malac.jpg',  
-    './A3C_SzegletBiborka_.jpg', 
+    './A3C_SzegletBiborka_pillango.jpg', 
     './A3C_SzegletBiborka_.jpg', 
     './A3C_SzegletBiborka_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...', '...', '...'
+    'Pillangó hajtogatása', '...', '...'
     ],
     description: ['...',
     '...',

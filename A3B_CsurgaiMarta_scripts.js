@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3B_CsurgaiMarta_papirvaros.jpg', './A3B_CsurgaiMarta_3D.jpg', 
     './A3B_CsurgaiMarta_husvet.jpg', './A3B_CsurgaiMarta_jacint.jpg',
     './A3B_CsurgaiMarta_kepeslap.jpg', './A3B_CsurgaiMarta_malac.jpg',  
-    './A3B_CsurgaiMarta_.jpg', 
-    './A3B_CsurgaiMarta_.jpg',
+    './A3B_CsurgaiMarta_pillango_1.jpg', 
+    './A3B_CsurgaiMarta_pillango_2.jpg', 
     './A3B_CsurgaiMarta_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  'Pillangó hajtogatása', '...'
     ],
     description: ['...',
     '...',

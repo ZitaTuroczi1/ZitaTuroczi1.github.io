@@ -4,14 +4,14 @@ let data = {
     './A3B_SaruZsombor_jacint.jpg',
     './A3B_SaruZsombor_kepeslap_1.jpg', './A3B_SaruZsombor_kepeslap_2.jpg',
     './A3B_SaruZsombor_malac.jpg',  
-    './A3B_SaruZsombor_.jpg'
+    './A3B_SaruZsombor_pillango.jpg'
 ],
     title: ['Papírváros', '3D-s város', '3D-s város', 
     'Húsvét',
      'Papírjácint', 
     'Varrott képeslap', 'Varrott képeslap',
     'Malacpersely',
-     '...'
+     'Pillangó hajtogatása'
     ],
     description: ['...',
     '...',

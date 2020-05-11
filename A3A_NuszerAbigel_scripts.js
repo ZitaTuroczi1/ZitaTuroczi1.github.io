@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3A_NuszerAbigel_papirvaros.jpg', './A3A_NuszerAbigel_3D.jpg', 
     './A3A_NuszerAbigel_husvet.jpg', './A3A_NuszerAbigel_jacint.jpg',
     './A3A_NuszerAbigel_kepeslap.jpg', './A3A_NuszerAbigel_malac.jpg',  
-    './A3A_NuszerAbigel_.jpg', 
+    './A3A_NuszerAbigel_pillango.jpg', 
     './A3A_NuszerAbigel_.jpg', 
     './A3A_NuszerAbigel_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  '...', '...'
     ],
     description: ['...',
     '...',

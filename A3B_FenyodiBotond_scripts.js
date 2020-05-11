@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3B_FenyodiBotond_papirvaros.jpg', './A3B_FenyodiBotond_3D.jpg', 
     './A3B_FenyodiBotond_husvet.jpg', './A3B_FenyodiBotond_jacint.jpg',
     './A3B_FenyodiBotond_kepeslap.jpg', './A3B_FenyodiBotond_malac.jpg',  
-    './A3B_FenyodiBotond_.jpg', 
+    './A3B_FenyodiBotond_pillango.jpg', 
     './A3B_FenyodiBotond_.jpg',
     './A3B_FenyodiBotond_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  '...', '...'
     ],
     description: ['...',
     '...',

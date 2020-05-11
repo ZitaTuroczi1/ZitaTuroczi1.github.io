@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3B_SaskaLia_papirvaros.jpg', './A3B_SaskaLia_3D.jpg', 
     './A3B_SaskaLia_husvet.jpg', './A3B_SaskaLia_jacint.jpg',
     './A3B_SaskaLia_kepeslap.jpg', './A3B_SaskaLia_malac.jpg',  
-    './A3B_SaskaLia_.jpg', 
+    './A3B_SaskaLia_pillango.jpg', 
     './A3B_SaskaLia_.jpg',
     './A3B_SaskaLia_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...',  '...', '...'
+    'Pillangó hajtogatása',  '...', '...'
     ],
     description: ['...',
     '...',

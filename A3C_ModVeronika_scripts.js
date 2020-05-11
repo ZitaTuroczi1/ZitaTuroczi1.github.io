@@ -2,14 +2,14 @@ let data = {
     photo: ['./A3C_ModVeronika_papirvaros.jpg', './A3C_ModVeronika_3D.jpg',
     './A3C_ModVeronika_husvet.jpg', './A3C_ModVeronika_jacint.jpg',
     './A3C_ModVeronika_kepeslap.jpg', './A3C_ModVeronika_malac.jpg',  
-    './A3C_ModVeronika_.jpg', 
+    './A3C_ModVeronika_pillango.jpg', 
     './A3C_ModVeronika_.jpg', 
     './A3C_ModVeronika_.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    '...', '...', '...'
+    'Pillangó hajtogatása', '...', '...'
     ],
     description: ['...',
     '...',
