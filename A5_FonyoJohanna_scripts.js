@@ -1,7 +1,7 @@
 let data = {
     photo: ['./A5_FonyoJohanna_tisztaszoba_1.jpg', './A5_FonyoJohanna_tisztaszoba_2.jpg', './A5_FonyoJohanna_papirkoszoru_1.jpg',
-     './A5_FonyoJohanna_papirkoszoru_2.jpg', './A5_FonyoJohanna_anyaknapja.jpg', './A5_FonyoJohanna_.jpg', './A5_FonyoJohanna_.jpg'],
-    title: ['Tisztaszoba', 'Tisztaszoba', 'Papírkoszorú', 'Papírkoszorú', 'Anyák napja', '...', '...'],
+     './A5_FonyoJohanna_papirkoszoru_2.jpg', './A5_FonyoJohanna_anyaknapja.jpg', './A5_FonyoJohanna_ceruzatarto.jpg', './A5_FonyoJohanna_.jpg'],
+    title: ['Tisztaszoba', 'Tisztaszoba', 'Papírkoszorú', 'Papírkoszorú', 'Anyák napja', 'Ceruzatartó készítése', '...'],
     description: ['...',
     '...',
     '...',
