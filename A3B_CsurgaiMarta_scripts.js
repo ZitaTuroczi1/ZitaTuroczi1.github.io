@@ -4,12 +4,12 @@ let data = {
     './A3B_CsurgaiMarta_kepeslap.jpg', './A3B_CsurgaiMarta_malac.jpg',  
     './A3B_CsurgaiMarta_pillango_1.jpg', 
     './A3B_CsurgaiMarta_pillango_2.jpg', 
-    './A3B_CsurgaiMarta_.jpg'
+    './A3B_CsurgaiMarta_baba.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása',  'Pillangó hajtogatása', '...'
+    'Pillangó hajtogatása',  'Pillangó hajtogatása', 'Zokni baba'
     ],
     description: ['...',
     '...',

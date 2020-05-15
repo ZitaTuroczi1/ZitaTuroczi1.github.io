@@ -1,17 +1,17 @@
 let data = {
-    photo: ['./A3B_SaruZsombor_papirvaros.jpg', './A3B_SaruZsombor_3D_1.jpg', './A3B_SaruZsombor_3D_2.jpg', 
+    photo: ['./A3B_SaruZsombor_papirvaros.jpg', './A3B_SaruZsombor_3D.jpg',  
     './A3B_SaruZsombor_husvet.jpg', 
     './A3B_SaruZsombor_jacint.jpg',
     './A3B_SaruZsombor_kepeslap_1.jpg', './A3B_SaruZsombor_kepeslap_2.jpg',
     './A3B_SaruZsombor_malac.jpg',  
-    './A3B_SaruZsombor_pillango.jpg'
+    './A3B_SaruZsombor_pillango.jpg', './A3B_SaruZsombor_baba.jpg'
 ],
-    title: ['Papírváros', '3D-s város', '3D-s város', 
+    title: ['Papírváros', '3D-s város', 
     'Húsvét',
      'Papírjácint', 
     'Varrott képeslap', 'Varrott képeslap',
     'Malacpersely',
-     'Pillangó hajtogatása'
+     'Pillangó hajtogatása', 'Zokni baba'
     ],
     description: ['...',
     '...',

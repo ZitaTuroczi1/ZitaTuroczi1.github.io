@@ -3,12 +3,12 @@ let data = {
     './A3B_SzaboViola_husvet.jpg', './A3B_SzaboViola_jacint.jpg',
     './A3B_SzaboViola_kepeslap.jpg', './A3B_SzaboViola_malac.jpg',  
     './A3B_SzaboViola_pillango.jpg', 
-    './A3B_SzaboViola_.jpg'
+    './A3B_SzaboViola_baba.jpg'
 ],
     title: ['Papírváros', '3D-s város', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása', '...'
+    'Pillangó hajtogatása', 'Zonki baba'
     ],
     description: ['...',
     '...',
