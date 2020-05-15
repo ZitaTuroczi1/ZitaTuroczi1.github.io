@@ -6,7 +6,7 @@ let data = {
     './E2C_KunCsenge_.jpg','./E2C_KunCsenge_.jpg'],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Szövött Halacska', 
-    'Anyák napja képeslap','Anyák napja képeslap',
+    'Anyák napi képeslap','Anyák napi képeslap',
      'Akvárium készítése', 
     '...',  '...'],
     description: ['...',

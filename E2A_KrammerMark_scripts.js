@@ -8,7 +8,7 @@ let data = {
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét','Húsvét', 
     'Szövött Halacska', 
-    'Anyák napja képeslap', 'Anyák napja képeslap',
+    'Anyák napi képeslap', 'Anyák napi képeslap',
      'Akvárium készítése', 
      '...'],
     description: ['...',

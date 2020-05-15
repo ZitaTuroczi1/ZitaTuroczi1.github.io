@@ -6,7 +6,7 @@ let data = {
     './E2A_PillerEszter_.jpg','./E2A_PillerEszter_.jpg'],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Szövött Halacska', 
-    'Anyák napja képeslap','Anyák napja képeslap', 'Akvárium készítése', 
+    'Anyák napi képeslap','Anyák napi képeslap', 'Akvárium készítése', 
     '...', '...'],
     description: ['...',
     '...',

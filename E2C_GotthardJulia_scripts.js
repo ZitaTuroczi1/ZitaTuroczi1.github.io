@@ -5,7 +5,7 @@ let data = {
     './E2C_GotthardJulia_.jpg','./E2C_GotthardJulia_.jpg','./E2C_GotthardJulia_.jpg'],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Szövött Halacska', 
-    'Anyák napja képeslap', 'Akvárium készítése', 
+    'Anyák napi képeslap', 'Akvárium készítése', 
     '...', '...', '...'],
     description: ['...',
     '...',

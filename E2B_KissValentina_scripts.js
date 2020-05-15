@@ -6,7 +6,7 @@ let data = {
     './E2B_KissValentina_.jpg'],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Húsvét',
-    'Szövött Halacska', 'Anyák napja képeslap', 'Anyák napja képeslap', 
+    'Szövött Halacska', 'Anyák napi képeslap', 'Anyák napi képeslap', 
     'Akvárium készítése', 
     '...'],
     description: ['...',

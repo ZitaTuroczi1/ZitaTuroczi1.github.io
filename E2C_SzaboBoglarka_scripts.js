@@ -9,7 +9,7 @@ let data = {
     'Frottázsolt halak', 'Frottázsolt halak', 
     'Húsvét', 'Húsvét',
     'Szövött Halacska', 'Szövött Halacska',
-    'Anyák napja képeslap',
+    'Anyák napi képeslap',
      'Akvárium készítése' ],
     description: ['...',
     '...',

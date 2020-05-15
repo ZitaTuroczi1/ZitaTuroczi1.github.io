@@ -6,7 +6,7 @@ let data = {
     './E2B_MaricsGergo_.jpg','./E2B_MaricsGergo_.jpg'],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Szövött Halacska', 
-    'Anyák napja képeslap', 'Anyák napja képeslap',
+    'Anyák napi képeslap', 'Anyák napi képeslap',
     'Akvárium készítése', 
     '...',  '...'],
     description: ['...',
