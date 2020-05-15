@@ -1,18 +1,43 @@
 let data = {
-    photo: ['./A5_FonyoJohanna_tisztaszoba.jpg', 
-    './A5_IllyesKata_tisztaszoba_1.jpg', './A5_IllyesKata_tisztaszoba_2.jpg', 
-    './A5_PetrocziPetra_tisztaszoba_1.jpg',  './A5_PetrocziPetra_tisztaszoba_2.jpg',  './A5_PetrocziPetra_tisztaszoba_3.jpg', 
-    './A5_PriklerVivien_tisztaszoba_1.jpg','./A5_PriklerVivien_tisztaszoba_2.jpg',
-     './A5_SzilvagyiBorbala_tisztaszoba_1.jpg', './A5_SzilvagyiBorbala_tisztaszoba_2.jpg', 
-     './A5_SzilvagyiBorbala_tisztaszoba_3.jpg', './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
-     './A5_ValdingerLaura_tisztaszoba_1.jpg','./A5_ValdingerLaura_tisztaszoba_2.jpg','./A5_ValdingerLaura_tisztaszoba_3.jpg',
+    photo: ['./E2A_AndorkaAnna_husvet.jpg', './E2A_AngyalEmese_husvet.jpg', 
+    './E2A_BurjanLena_husvet.jpg', './E2A_HorvathDiana_husvet.jpg', 
+    './E2A_JozsaKata_husvet_1.jpg',  './E2A_KaraivanovLia_husvet.jpg', 
+     './E2A_KrammerMark_husvet_1.jpg', './E2A_NerathNatalia_husvet_2.jpg',
+     './E2A_PillerEszter_husvet.jpg',
+
+     './E2B_DomotorVince_husvet_1.jpg', './E2B_HorvathAlexandra_husvet_1.jpg', 
+     './E2B_HorvathBotond_husvet.jpg', './E2B_HorvathZsofia_husvet.jpg', 
+     './E2B_KissValentina_husvet_1.jpg',  './E2B_MaricsGergo_husvet.jpg', 
+      './E2B_NemesKrancsakEszter_husvet_2.jpg', './E2B_PakozdiEngelszZalan_husvet_2.jpg',
+      './E2B_PonaczAlex_husvet_1.jpg','./E2B_SimonBotond_husvet.jpg',
+      './E2B_SiposDorka_husvet_1.jpg','./E2B_TothBoglarka_husvet.jpg',
+      './E2B_TothCsongor_husvet.jpg',
+
+      './E2C_GotthardJulia_husvet.jpg', './E2C_HermnaNora_husvet.jpg', 
+    './E2C_KunCsenge_husvet.jpg', './E2C_MaarKnauzCsilla_husvet_2.jpg', 
+    './E2C_MagyarLilla_husvet.jpg',  './E2C_PeterVillo_husvet_1.jpg', 
+     './E2C_SzaboBoglarka_husvet_1.jpg', './E2C_TorokNoemi_husvet_2.jpg',
+ 
    ],
-    title: ['Fonyó Johanna', 
-    'Illyés Kata','Illyés Kata',
-    'Petróczi Petra', 'Petróczi Petra', 'Petróczi Petra', 
-    'Prikler Vivien', 'Prikler Vivien', 
-    'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 
-    'Valdinger Laura',  'Valdinger Laura',  'Valdinger Laura',  
+    title: ['E2A - Andorka Anna', 'E2A - Angyal Emese Réka',
+    'E2A - Burján Léna',    'E2A - Horváth-Fernandes Diana', 
+    'E2A - Józsa Kata', 'E2A - Karaivanov Lia', 
+    'E2A - Krammer Márk Bendegúz', 'E2A - Neráth Natália', 
+    'E2A - Piller Eszter', 
+
+    'E2B - Dömötör Vince', 'E2B - Horváth Alexandra Napsugár', 
+    'E2B - Horváth Botond Noah', 'E2B - Horváth Zsófia', 
+     'E2B - Kiss Valentina',  'E2B - Marics Gergő',  
+     'E2B - Nemes-Krancsák Eszter', 'E2B - Pákozdi-Engelsz Zalán', 
+     'E2B - Ponácz Alex', 'E2B - Simon Botond', 
+      'E2B - Sipos Dorka',  'E2B - Tóth Boglárka', 
+      'E2B - Tóth Csongor',
+
+      'E2C - Gotthárd Júlia Veronika', 'E2C - Hermán Nóra', 
+      'E2C - Kun Csenge', 'E2C - Maár-Knauz Csilla', 
+       'E2C - Magyar Lilla',  'E2C - Péter Villő',  
+       'E2C - Szabó Boglárka', 'E2C - Török Noémi', 
+
 ],
     description: ['...',
     '...',
@@ -67,6 +92,21 @@ let thumb11 = document.getElementById('11');
 let thumb12 = document.getElementById('12');
 let thumb13 = document.getElementById('13');
 let thumb14 = document.getElementById('14');
+let thumb15 = document.getElementById('15');
+let thumb16 = document.getElementById('16');
+let thumb17 = document.getElementById('17');
+let thumb18 = document.getElementById('18');
+let thumb19 = document.getElementById('19');
+let thumb20 = document.getElementById('20');
+let thumb21 = document.getElementById('21');
+let thumb22 = document.getElementById('22');
+let thumb23 = document.getElementById('23');
+let thumb24 = document.getElementById('24');
+let thumb25 = document.getElementById('25');
+let thumb26 = document.getElementById('26');
+let thumb27 = document.getElementById('27');
+let thumb28 = document.getElementById('28');
+let thumb29 = document.getElementById('29');
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -147,6 +187,81 @@ function printImage(){
     } else {
         thumb14.style.background = 'inherit';
     }
+    if (currentPhoto === 15) {
+        thumb15.style.background = 'rgb(65 179 247)';
+    } else {
+        thumb15.style.background = 'inherit';
+    }
+    if (currentPhoto === 16) {
+        thumb16.style.background = 'rgb(65 179 247)';
+    } else {
+        thumb16.style.background = 'inherit';
+    }
+    if (currentPhoto === 17) {
+        thumb17.style.background = 'rgb(65 179 247)';
+    } else {
+        thumb17.style.background = 'inherit';
+    }
+    if (currentPhoto === 18) {
+        thumb18.style.background = 'rgb(65 179 247)';
+    } else {
+        thumb18.style.background = 'inherit';
+    }
+    if (currentPhoto === 19) {
+        thumb19.style.background = 'rgb(65 179 247)';
+    } else {
+        thumb19.style.background = 'inherit';
+    }
+    if (currentPhoto === 20) {
+        thumb20.style.background = 'green';
+    } else {
+        thumb20.style.background = 'inherit';
+    }
+    if (currentPhoto === 21) {
+        thumb21.style.background = 'green';
+    } else {
+        thumb21.style.background = 'inherit';
+    }
+    if (currentPhoto === 22) {
+        thumb22.style.background = 'green';
+    } else {
+        thumb22.style.background = 'inherit';
+    }
+    if (currentPhoto === 23) {
+        thumb23.style.background = 'green';
+    } else {
+        thumb23.style.background = 'inherit';
+    }
+    if (currentPhoto === 24) {
+        thumb24.style.background = 'green';
+    } else {
+        thumb24.style.background = 'inherit';
+    }
+    if (currentPhoto ===25) {
+        thumb25.style.background = 'green';
+    } else {
+        thumb25.style.background = 'inherit';
+    }
+    if (currentPhoto === 26) {
+        thumb26.style.background = 'green';
+    } else {
+        thumb26.style.background = 'inherit';
+    }
+    if (currentPhoto === 27) {
+        thumb27.style.background = 'green';
+    } else {
+        thumb27.style.background = 'inherit';
+    }
+    if (currentPhoto === 28) {
+        thumb28.style.background = 'green';
+    } else {
+        thumb28.style.background = 'inherit';
+    }
+    if (currentPhoto === 29) {
+        thumb29.style.background = 'green';
+    } else {
+        thumb29.style.background = 'inherit';
+    }
 }
 
 printImage();
@@ -163,7 +278,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 14;
+        currentPhoto = 29;
         printImage();
     } else {
         currentPhoto--;
@@ -230,6 +345,66 @@ thumb13.onclick = function() {
 }
 thumb14.onclick = function() {
     currentPhoto = 14;
+    printImage();
+}
+thumb15.onclick = function() {
+    currentPhoto = 15;
+    printImage();
+}
+thumb16.onclick = function() {
+    currentPhoto = 16;
+    printImage();
+}
+thumb17.onclick = function() {
+    currentPhoto = 17;
+    printImage();
+}
+thumb18.onclick = function() {
+    currentPhoto = 18;
+    printImage();
+}
+thumb19.onclick = function() {
+    currentPhoto = 19;
+    printImage();
+}
+thumb20.onclick = function() {
+    currentPhoto = 20;
+    printImage();
+}
+thumb21.onclick = function() {
+    currentPhoto = 21;
+    printImage();
+}
+thumb22.onclick = function() {
+    currentPhoto = 22;
+    printImage();
+}
+thumb23.onclick = function() {
+    currentPhoto = 23;
+    printImage();
+}
+thumb24.onclick = function() {
+    currentPhoto = 24;
+    printImage();
+}
+thumb25.onclick = function() {
+    currentPhoto = 25;
+    printImage();
+}
+thumb26.onclick = function() {
+    currentPhoto = 26;
+    printImage();
+}
+thumb27.onclick = function() {
+    currentPhoto = 27;
+    printImage();
+}
+thumb28.onclick = function() {
+    currentPhoto = 28;
+    printImage();
+}
+thumb29.onclick = function() {
+    currentPhoto = 29;
     printImage();
 }
 /*

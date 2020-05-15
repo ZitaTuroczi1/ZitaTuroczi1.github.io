@@ -1,18 +1,17 @@
 let data = {
-    photo: ['./A5_FonyoJohanna_tisztaszoba.jpg', 
-    './A5_IllyesKata_tisztaszoba_1.jpg', './A5_IllyesKata_tisztaszoba_2.jpg', 
-    './A5_PetrocziPetra_tisztaszoba_1.jpg',  './A5_PetrocziPetra_tisztaszoba_2.jpg',  './A5_PetrocziPetra_tisztaszoba_3.jpg', 
-    './A5_PriklerVivien_tisztaszoba_1.jpg','./A5_PriklerVivien_tisztaszoba_2.jpg',
-     './A5_SzilvagyiBorbala_tisztaszoba_1.jpg', './A5_SzilvagyiBorbala_tisztaszoba_2.jpg', 
-     './A5_SzilvagyiBorbala_tisztaszoba_3.jpg', './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
-     './A5_ValdingerLaura_tisztaszoba_1.jpg','./A5_ValdingerLaura_tisztaszoba_2.jpg','./A5_ValdingerLaura_tisztaszoba_3.jpg',
+    photo: ['./A5_FonyoJohanna_anyaknapja.jpg', 
+    './A5_IllyesKata_anyaknapja.jpg',
+    './A5_PetrocziPetra_anyaknapja.jpg',  
+    './A5_PriklerVivien_anyaknapja.jpg',
+     './A5_SzilvagyiBorbala_anyaknapja.jpg', 
+     './A5_ValdingerLaura_anyaknapja.jpg'
    ],
     title: ['Fonyó Johanna', 
-    'Illyés Kata','Illyés Kata',
-    'Petróczi Petra', 'Petróczi Petra', 'Petróczi Petra', 
-    'Prikler Vivien', 'Prikler Vivien', 
-    'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 
-    'Valdinger Laura',  'Valdinger Laura',  'Valdinger Laura',  
+    'Illyés Kata',
+    'Petróczi Petra', 
+    'Prikler Vivien', 
+    'Szilvágyi Borbála', 
+    'Valdinger Laura', 
 ],
     description: ['...',
     '...',
@@ -21,8 +20,7 @@ let data = {
     "...",
     '...',
     '...'    
-    
-]
+] 
 };
 let img = document.getElementById('img-container');
 let title = document.getElementById('image_title');
@@ -58,15 +56,10 @@ let thumb2 = document.getElementById('2');
 let thumb3 = document.getElementById('3');
 let thumb4 = document.getElementById('4');
 let thumb5 = document.getElementById('5');
-let thumb6 = document.getElementById('6');
-let thumb7 = document.getElementById('7');
-let thumb8 = document.getElementById('8');
-let thumb9 = document.getElementById('9');
-let thumb10 = document.getElementById('10');
-let thumb11 = document.getElementById('11');
-let thumb12 = document.getElementById('12');
-let thumb13 = document.getElementById('13');
-let thumb14 = document.getElementById('14');
+
+
+
+
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -102,51 +95,8 @@ function printImage(){
     } else {
         thumb5.style.background = 'inherit';
     }
-    if (currentPhoto === 6) {
-        thumb6.style.background = 'green';
-    } else {
-        thumb6.style.background = 'inherit';
-    }
-    if (currentPhoto === 7) {
-        thumb7.style.background = 'green';
-    } else {
-        thumb7.style.background = 'inherit';
-    }
-    if (currentPhoto === 8) {
-        thumb8.style.background = 'green';
-    } else {
-        thumb8.style.background = 'inherit';
-    }
-    if (currentPhoto === 9) {
-        thumb9.style.background = 'green';
-    } else {
-        thumb9.style.background = 'inherit';
-    }
-    if (currentPhoto ===10) {
-        thumb10.style.background = 'green';
-    } else {
-        thumb10.style.background = 'inherit';
-    }
-    if (currentPhoto === 11) {
-        thumb11.style.background = 'green';
-    } else {
-        thumb11.style.background = 'inherit';
-    }
-    if (currentPhoto === 12) {
-        thumb12.style.background = 'green';
-    } else {
-        thumb12.style.background = 'inherit';
-    }
-    if (currentPhoto === 13) {
-        thumb13.style.background = 'green';
-    } else {
-        thumb13.style.background = 'inherit';
-    }
-    if (currentPhoto === 14) {
-        thumb14.style.background = 'green';
-    } else {
-        thumb14.style.background = 'inherit';
-    }
+
+
 }
 
 printImage();
@@ -163,7 +113,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 14;
+        currentPhoto = 5;
         printImage();
     } else {
         currentPhoto--;
@@ -196,42 +146,10 @@ thumb5.onclick = function() {
     currentPhoto = 5;
     printImage();
 }
-thumb6.onclick = function() {
-    currentPhoto = 6;
-    printImage();
-}
-thumb7.onclick = function() {
-    currentPhoto = 7;
-    printImage();
-}
-thumb8.onclick = function() {
-    currentPhoto = 8;
-    printImage();
-}
-thumb9.onclick = function() {
-    currentPhoto = 9;
-    printImage();
-}
-thumb10.onclick = function() {
-    currentPhoto = 10;
-    printImage();
-}
-thumb11.onclick = function() {
-    currentPhoto = 11;
-    printImage();
-}
-thumb12.onclick = function() {
-    currentPhoto = 12;
-    printImage();
-}
-thumb13.onclick = function() {
-    currentPhoto = 13;
-    printImage();
-}
-thumb14.onclick = function() {
-    currentPhoto = 14;
-    printImage();
-}
+
+
+
+
 /*
 Failed attempts at syncing thumbnail and the image at the viewer area, making the viewer show the image clicked at the thumbnail section
 Also highlight the thumbnail of the image being showed at the viewer area

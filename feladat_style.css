@@ -89,7 +89,7 @@ a {
 
 #thumbnails {
     width: 700px;
-    height: 200px;
+    height: 350px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -580,6 +580,826 @@ a {
     visibility: visible;
 }
 
+
+.div15 #thumb-title15 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div15 #thumb-title15::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div15:hover #thumb-title15 {
+    visibility: visible;
+}
+
+.div16 #thumb-title16 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div16 #thumb-title16::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div16:hover #thumb-title16 {
+    visibility: visible;
+}
+
+
+.div17 #thumb-title17 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div17 #thumb-title17::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div17:hover #thumb-title17 {
+    visibility: visible;
+}
+
+
+.div18 #thumb-title18 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div18 #thumb-title18::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div18:hover #thumb-title18 {
+    visibility: visible;
+}
+
+
+.div19 #thumb-title19 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div19 #thumb-title19::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div19:hover #thumb-title19 {
+    visibility: visible;
+}
+
+
+.div20 #thumb-title20 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div20 #thumb-title20::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div20:hover #thumb-title20 {
+    visibility: visible;
+}
+
+
+.div21 #thumb-title21 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div21 #thumb-title21::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div21:hover #thumb-title21 {
+    visibility: visible;
+}
+
+
+.div22 #thumb-title22 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div22 #thumb-title22::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div22:hover #thumb-title22 {
+    visibility: visible;
+}
+
+.div23 #thumb-title23 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div23 #thumb-title23::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div23:hover #thumb-title23 {
+    visibility: visible;
+}
+
+
+.div24 #thumb-title24 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div24 #thumb-title24::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div24:hover #thumb-title24 {
+    visibility: visible;
+}
+
+
+.div25 #thumb-title25 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div25 #thumb-title25::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div25:hover #thumb-title25 {
+    visibility: visible;
+}
+
+
+.div26 #thumb-title26 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div26 #thumb-title26::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div26:hover #thumb-title26 {
+    visibility: visible;
+}
+
+
+.div27 #thumb-title27 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div27 #thumb-title27::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div27:hover #thumb-title27 {
+    visibility: visible;
+}
+
+
+.div28 #thumb-title28 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div28 #thumb-title28::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div28:hover #thumb-title28 {
+    visibility: visible;
+}
+
+
+.div29 #thumb-title29 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div29 #thumb-title29::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div29:hover #thumb-title29 {
+    visibility: visible;
+}
+
+.div30 #thumb-title30 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div30 #thumb-title30::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div30:hover #thumb-title30 {
+    visibility: visible;
+}
+
+
+.div31 #thumb-title31 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div31 #thumb-title31::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div31:hover #thumb-title31 {
+    visibility: visible;
+}
+
+
+.div32 #thumb-title32 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div32 #thumb-title32::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div32:hover #thumb-title32 {
+    visibility: visible;
+}
+
+.div33 #thumb-title33 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div33 #thumb-title33::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div33:hover #thumb-title33 {
+    visibility: visible;
+}
+
+
+.div34 #thumb-title34 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div34 #thumb-title34::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div34:hover #thumb-title34 {
+    visibility: visible;
+}
+
+
+.div35 #thumb-title35 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div35 #thumb-title35::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div35:hover #thumb-title35 {
+    visibility: visible;
+}
+
+
+.div36 #thumb-title36 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div36 #thumb-title36::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div36:hover #thumb-title36 {
+    visibility: visible;
+}
+
+
+.div37 #thumb-title37 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div37 #thumb-title37::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div37:hover #thumb-title37 {
+    visibility: visible;
+}
+
+
+.div38 #thumb-title38 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div38 #thumb-title38::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div38:hover #thumb-title38 {
+    visibility: visible;
+}
+
+
+.div39 #thumb-title39 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    border: thin solid wheat;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    bottom: 100%;
+    left: 50%; 
+    margin-left: -60px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div39 #thumb-title39::after {
+    content: " ";
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.div39:hover #thumb-title39 {
+    visibility: visible;
+}
 
 
 #feladat {
