@@ -13,7 +13,7 @@ let data = {
       './E2B_SiposDorka_hal.jpg','./E2B_TothBoglarka_hal.jpg',
       './E2B_TothCsongor_hal.jpg',
 
-      './E2C_GotthardJulia_hal.jpg', './E2C_HermnaNora_hal.jpg', 
+      './E2C_GotthardJulia_hal.jpg', './E2C_HermanNora_hal.jpg', 
     './E2C_KunCsenge_hal.jpg', './E2C_MaarKnauzCsilla_hal.jpg', 
     './E2C_MagyarLilla_hal.jpg',  './E2C_PeterVillo_hal.jpg', 
      './E2C_SzaboBoglarka_hal.jpg', './E2C_TorokNoemi_hal.jpg',

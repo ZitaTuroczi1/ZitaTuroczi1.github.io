@@ -13,7 +13,7 @@ let data = {
       './E2B_SiposDorka_frottazs.jpg','./E2B_TothBoglarka_frottazs.jpg',
       './E2B_TothCsongor_frottazs.jpg',
 
-      './E2C_GotthardJulia_frottazs.jpg', './E2C_HermnaNora_frottazs.jpg', 
+      './E2C_GotthardJulia_frottazs.jpg', './E2C_HermanNora_frottazs.jpg', 
     './E2C_KunCsenge_frottazs.jpg', './E2C_MaarKnauzCsilla_frottazs.jpg', 
     './E2C_MagyarLilla_frottazs.jpg',  './E2C_PeterVillo_frottazs.jpg', 
      './E2C_SzaboBoglarka_frottazs_2.jpg', './E2C_TorokNoemi_frottazs.jpg',

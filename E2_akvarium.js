@@ -13,7 +13,7 @@ let data = {
       './E2B_SiposDorka_akvarium.jpg','./E2B_TothBoglarka_akvarium.jpg',
       './E2B_TothCsongor_akvarium.jpg',
 
-      './E2C_GotthardJulia_akvarium.jpg', './E2C_HermnaNora_akvarium.jpg', 
+      './E2C_GotthardJulia_akvarium.jpg', './E2C_HermanNora_akvarium.jpg', 
     './E2C_KunCsenge_akvarium.jpg', './E2C_MaarKnauzCsilla_akvarium.jpg', 
     './E2C_MagyarLilla_akvarium.jpg',  './E2C_PeterVillo_akvarium.jpg', 
      './E2C_SzaboBoglarka_akvar ium.jpg', './E2C_TorokNoemi_akvarium.jpg',
