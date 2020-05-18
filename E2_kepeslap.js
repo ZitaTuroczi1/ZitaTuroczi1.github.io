@@ -1,5 +1,5 @@
 let data = {
-    photo: ['./E2A_AndorkaAnna_kepeslap.jpg', './E2A_AngyalEmese_kepeslap.jpg', 
+    photo: ['./E2A_AndorkaAnna_kepeslap.jpg', './E2A_AngyalEmese_kepeslap_2.jpg', 
     './E2A_BurjanLena_kepeslap_1.jpg', './E2A_HorvathDiana_kepeslap.jpg', 
     './E2A_JozsaKata_kepeslap_2.jpg',  './E2A_KaraivanovLia_kepeslap.jpg', 
      './E2A_KrammerMark_kepeslap_2.jpg', './E2A_NerathNatalia_kepeslap.jpg',
@@ -12,7 +12,7 @@ let data = {
       './E2B_PonaczAlex_kepeslap_1.jpg','./E2B_SimonBotond_kepeslap_2.jpg',
       './E2B_SiposDorka_kepeslap.jpg','./E2B_TothBoglarka_kepeslap.jpg',
       './E2B_TothCsongor_kepeslap_2.jpg',
-
+ 
       './E2C_GotthardJulia_kepeslap.jpg', './E2C_HermanNora_kepeslap_2.jpg', 
     './E2C_KunCsenge_kepeslap_1.jpg', './E2C_MaarKnauzCsilla_kepeslap_3.jpg', 
     './E2C_MagyarLilla_kepeslap_1.jpg',  './E2C_PeterVillo_kepeslap.jpg', 

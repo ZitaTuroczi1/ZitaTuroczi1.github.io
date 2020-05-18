@@ -11,7 +11,7 @@ let data = {
       './E2B_NemesKrancsakEszter_husvet_2.jpg', './E2B_PakozdiEngelszZalan_husvet_2.jpg',
       './E2B_PonaczAlex_husvet_1.jpg','./E2B_SimonBotond_husvet.jpg',
       './E2B_SiposDorka_husvet_1.jpg','./E2B_TothBoglarka_husvet.jpg',
-      './E2B_TothCsongor_husvet.jpg',
+      './E2B_TothCsongor_husvet_2.jpg',
 
       './E2C_GotthardJulia_husvet.jpg', './E2C_HermanNora_husvet.jpg', 
     './E2C_KunCsenge_husvet.jpg', './E2C_MaarKnauzCsilla_husvet_2.jpg', 
