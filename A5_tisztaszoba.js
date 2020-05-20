@@ -4,14 +4,14 @@ let data = {
     './A5_PetrocziPetra_tisztaszoba_1.jpg',  './A5_PetrocziPetra_tisztaszoba_2.jpg',  './A5_PetrocziPetra_tisztaszoba_3.jpg', 
     './A5_PriklerVivien_tisztaszoba_1.jpg','./A5_PriklerVivien_tisztaszoba_2.jpg',
      './A5_SzilvagyiBorbala_tisztaszoba_1.jpg', './A5_SzilvagyiBorbala_tisztaszoba_2.jpg', 
-     './A5_SzilvagyiBorbala_tisztaszoba_3.jpg', './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
+      './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
      './A5_ValdingerLaura_tisztaszoba_1.jpg','./A5_ValdingerLaura_tisztaszoba_2.jpg','./A5_ValdingerLaura_tisztaszoba_3.jpg',
    ],
     title: ['Fonyó Johanna', 
     'Illyés Kata','Illyés Kata',
     'Petróczi Petra', 'Petróczi Petra', 'Petróczi Petra', 
     'Prikler Vivien', 'Prikler Vivien', 
-    'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 
+    'Szilvágyi Borbála', 'Szilvágyi Borbála', 'Szilvágyi Borbála', 
     'Valdinger Laura',  'Valdinger Laura',  'Valdinger Laura',  
 ],
     description: ['...',
@@ -21,7 +21,7 @@ let data = {
     "...",
     '...',
     '...'    
-    
+     
 ]
 };
 let img = document.getElementById('img-container');
@@ -66,7 +66,7 @@ let thumb10 = document.getElementById('10');
 let thumb11 = document.getElementById('11');
 let thumb12 = document.getElementById('12');
 let thumb13 = document.getElementById('13');
-let thumb14 = document.getElementById('14');
+
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -142,11 +142,7 @@ function printImage(){
     } else {
         thumb13.style.background = 'inherit';
     }
-    if (currentPhoto === 14) {
-        thumb14.style.background = 'green';
-    } else {
-        thumb14.style.background = 'inherit';
-    }
+
 }
 
 printImage();
@@ -163,7 +159,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 14;
+        currentPhoto = 13;
         printImage();
     } else {
         currentPhoto--;
@@ -228,10 +224,7 @@ thumb13.onclick = function() {
     currentPhoto = 13;
     printImage();
 }
-thumb14.onclick = function() {
-    currentPhoto = 14;
-    printImage();
-}
+
 /*
 Failed attempts at syncing thumbnail and the image at the viewer area, making the viewer show the image clicked at the thumbnail section
 Also highlight the thumbnail of the image being showed at the viewer area

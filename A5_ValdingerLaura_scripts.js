@@ -2,18 +2,18 @@ let data = {
     photo: ['./A5_ValdingerLaura_tisztaszoba_1.jpg', './A5_ValdingerLaura_tisztaszoba_2.jpg', 
     './A5_ValdingerLaura_tisztaszoba_3.jpg', 
     './A5_ValdingerLaura_papirkoszoru.jpg',
-     './A5_ValdingerLaura_anyaknapja.jpg', './A5_ValdingerLaura_ceruzatarto.jpg', './A5_ValdingerLaura_.jpg'],
+     './A5_ValdingerLaura_anyaknapja.jpg', './A5_ValdingerLaura_ceruzatarto.jpg', './A5_ValdingerLaura_kepkeret.jpg'],
     title: ['Tisztaszoba', 'Tisztaszoba',
     'Tisztaszoba', 
     'Papírkoszorú', 
-    'Anyák napja', 'Ceruzatartó készítése',  '...'],
+    'Anyák napja', 'Ceruzatartó készítése',  'Kép és kerete'],
     description: ['...',
     '...',
     '...',
     '...',
     "...",
     '...',
-    '...'    
+    '...'     
 ]
 };
 let img = document.getElementById('img-container');

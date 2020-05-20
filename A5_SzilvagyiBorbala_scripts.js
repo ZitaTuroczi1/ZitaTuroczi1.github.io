@@ -1,14 +1,15 @@
 let data = {
     photo: ['./A5_SzilvagyiBorbala_tisztaszoba_1.jpg', './A5_SzilvagyiBorbala_tisztaszoba_2.jpg', 
-    './A5_SzilvagyiBorbala_tisztaszoba_3.jpg', './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
+    './A5_SzilvagyiBorbala_tisztaszoba_4.jpg', 
     './A5_SzilvagyiBorbala_papirkoszoru.jpg',
      './A5_SzilvagyiBorbala_anyaknapja.jpg', 
-     './A5_SzilvagyiBorbala_ceruzatarto.jpg'],
+     './A5_SzilvagyiBorbala_ceruzatarto.jpg',
+     './A5_SzilvagyiBorbala_kepkeret.jpg', ],
     title: ['Tisztaszoba', 'Tisztaszoba', 
-    'Tisztaszoba', 'Tisztaszoba', 
+    'Tisztaszoba', 
     'Papírkoszorú', 
     'Anyák napja', 
-    'Ceruzatartó készítése'],
+    'Ceruzatartó készítése', 'Kép és kerete'],
     description: ['...',
     '...',
     '...',
@@ -16,7 +17,7 @@ let data = {
     "...",
     '...',
     '...'    
-]
+] 
 };
 let img = document.getElementById('img-container');
 let title = document.getElementById('image_title');
