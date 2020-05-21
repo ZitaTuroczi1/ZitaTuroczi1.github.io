@@ -4,12 +4,12 @@ let data = {
     './A3B_FenyodiBotond_kepeslap.jpg', './A3B_FenyodiBotond_malac.jpg',  
     './A3B_FenyodiBotond_pillango.jpg', 
     './A3B_FenyodiBotond_baba.jpg',
-    './A3B_FenyodiBotond_.jpg'
+    './A3B_FenyodiBotond_mecses.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása',  'Zokni baba', '...'
+    'Pillangó hajtogatása',  'Zokni baba', 'Mécsestartó befőttes üvegből'
     ],
     description: ['...',
     '...',

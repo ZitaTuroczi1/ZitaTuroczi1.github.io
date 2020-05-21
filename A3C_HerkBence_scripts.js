@@ -4,12 +4,12 @@ let data = {
     './A3C_HerkBence_kepeslap.jpg', './A3C_HerkBence_malac.jpg',  
     './A3C_HerkBence_pillango.jpg', 
     './A3C_HerkBence_baba.jpg', 
-    './A3C_HerkBence_.jpg'
+    './A3C_HerkBence_mecses.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása', 'Zokni baba', '...'
+    'Pillangó hajtogatása', 'Zokni baba', 'Mécsestartó befőttes üvegből'
     ],
     description: ['...',
     '...',

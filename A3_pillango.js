@@ -5,8 +5,8 @@ let data = {
      './A3A_TothBrigitta_pillango.jpg', 
    
 
-     './A3B_AndrokaAbigel_pillango.jpg', './A3B_BencsicsJanka_pillango_1.jpg', 
-     './A3B_CsurgaiMarta_pillango_2.jpg', './A3B_FenyodiBotond_pillango.jpg', 
+     './A3B_AndrokaAbigel_pillango.jpg', './A3B_BencsicsJanka_pillango.jpg', 
+     './A3B_CsurgaiMarta_pillango.jpg', './A3B_FenyodiBotond_pillango.jpg', 
      './A3B_HorvathKincso_pillango.jpg',  './A3B_JuhaszAntonia_pillango.jpg', 
       './A3B_PonaczKrisztian_pillango.jpg', './A3B_RokobDora_pillango.jpg',
       './A3B_SaruZsombor_pillango.jpg','./A3B_SaskaLia_pillango.jpg',

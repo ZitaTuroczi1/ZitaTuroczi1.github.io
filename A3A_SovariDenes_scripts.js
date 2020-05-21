@@ -4,12 +4,12 @@ let data = {
     './A3A_SovariDenes_kepeslap.jpg', './A3A_SovariDenes_malac.jpg',  
     './A3A_SovariDenes_pillango.jpg', 
     './A3A_SovariDenes_baba.jpg', 
-    './A3A_SovariDenes_.jpg'
+    './A3A_SovariDenes_mecses.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása',  'Zokni baba', '...'
+    'Pillangó hajtogatása',  'Zokni baba', 'Mécsestartó befőttes üvegből'
     ],
     description: ['...',
     '...',

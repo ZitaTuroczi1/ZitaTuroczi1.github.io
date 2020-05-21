@@ -1,14 +1,14 @@
 let data = {
-    photo: ['./A3C_DomotorIlona_papirvaros.jpg', './A3C_DomotorIlona_3D_1.jpg','./A3C_DomotorIlona_3D_2.jpg',
+    photo: ['./A3C_DomotorIlona_papirvaros.jpg', './A3C_DomotorIlona_3D.jpg',
     './A3C_DomotorIlona_husvet.jpg', './A3C_DomotorIlona_jacint.jpg',
     './A3C_DomotorIlona_kepeslap.jpg', './A3C_DomotorIlona_malac.jpg',  
     './A3C_DomotorIlona_pillango.jpg', 
-    './A3C_DomotorIlona_baba.jpg'
+    './A3C_DomotorIlona_baba.jpg', './A3C_DomotorIlona_mecses.jpg',
 ],
-    title: ['Papírváros', '3D-s város', '3D-s város', 
+    title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása',  'Zokni baba'
+    'Pillangó hajtogatása',  'Zokni baba', 'Mécsestartó befőttes üvegből', 
     ],
     description: ['...',
     '...',

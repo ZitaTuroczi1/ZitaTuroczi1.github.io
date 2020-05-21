@@ -9,7 +9,7 @@ let data = {
      './A3B_CsurgaiMarta_kepeslap.jpg', './A3B_FenyodiBotond_kepeslap.jpg', 
      './A3B_HorvathKincso_kepeslap.jpg',  './A3B_JuhaszAntonia_kepeslap.jpg', 
       './A3B_PonaczKrisztian_kepeslap.jpg', './A3B_RokobDora_kepeslap.jpg',
-      './A3B_SaruZsombor_kepeslap_1.jpg','./A3B_SaskaLia_kepeslap.jpg',
+      './A3B_SaruZsombor_kepeslap.jpg','./A3B_SaskaLia_kepeslap.jpg',
       './A3B_SzaboViola_kepeslap.jpg',
 
       './A3C_BokaLilla_kepeslap.jpg', './A3C_DomotorIlona_kepeslap.jpg', 
