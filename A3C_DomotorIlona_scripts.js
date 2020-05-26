@@ -16,7 +16,7 @@ let data = {
     '...',
     "...",
     '...',
-    '...'    
+    '...'     
 ]
 };
 let img = document.getElementById('img-container');

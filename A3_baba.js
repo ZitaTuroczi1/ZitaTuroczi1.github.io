@@ -1,8 +1,5 @@
 let data = {
-    photo: ['./A3A_AcsLaura_baba.jpg', './A3A_BenyatsKlaudia_baba.jpg', 
-    './A3A_JamborTimea_baba.jpg', './A3A_KovacsFruzsina_baba.jpg', 
-    './A3A_NuszerAbigel_baba.jpg',  './A3A_SovariDenes_baba.jpg', 
-     './A3A_TothBrigitta_baba.jpg', 
+    photo: [ 
    
 
      './A3B_AndrokaAbigel_baba.jpg', './A3B_BencsicsJanka_baba.jpg', 
@@ -21,10 +18,7 @@ let data = {
       './A3C_TothRichard_baba.jpg', './A3C_VasokAnna_baba.jpg',
  
    ],
-    title: ['A3A - Ács Laura', 'A3A - Benyáts Klaudia',
-    'A3A - Jámbor Tímea Kitti',    'A3A - Kovács Fruzsina Mária', 
-    'A3A - Nuszer Abigél', 'A3A - Sóvári Dénes', 
-    'A3A - Tóth Brigitta', 
+    title: [
   
 
     'A3B - Andorka Abigél', 'A3B - Bencsics Janka Linett', 
@@ -107,13 +101,7 @@ let thumb21 = document.getElementById('21');
 let thumb22 = document.getElementById('22');
 let thumb23 = document.getElementById('23');
 let thumb24 = document.getElementById('24');
-let thumb25 = document.getElementById('25');
-let thumb26 = document.getElementById('26');
-let thumb27 = document.getElementById('27');
-let thumb28 = document.getElementById('28');
-let thumb29 = document.getElementById('29');
-let thumb30 = document.getElementById('30');
-let thumb31 = document.getElementById('31');
+
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -244,41 +232,7 @@ function printImage(){
     } else {
         thumb24.style.background = 'inherit';
     }
-    if (currentPhoto ===25) {
-        thumb25.style.background = 'green';
-    } else {
-        thumb25.style.background = 'inherit';
-    }
-    if (currentPhoto === 26) {
-        thumb26.style.background = 'green';
-    } else {
-        thumb26.style.background = 'inherit';
-    }
-    if (currentPhoto === 27) {
-        thumb27.style.background = 'green';
-    } else {
-        thumb27.style.background = 'inherit';
-    }
-    if (currentPhoto === 28) {
-        thumb28.style.background = 'green';
-    } else {
-        thumb28.style.background = 'inherit';
-    }
-    if (currentPhoto === 29) {
-        thumb29.style.background = 'green';
-    } else {
-        thumb29.style.background = 'inherit';
-    }
-    if (currentPhoto === 30) {
-        thumb30.style.background = 'green';
-    } else {
-        thumb30.style.background = 'inherit';
-    }
-    if (currentPhoto === 31) {
-        thumb31.style.background = 'green';
-    } else {
-        thumb31.style.background = 'inherit';
-    }
+
 }
 
 printImage();
@@ -295,7 +249,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 31;
+        currentPhoto = 24;
         printImage();
     } else {
         currentPhoto--;
@@ -404,34 +358,7 @@ thumb24.onclick = function() {
     currentPhoto = 24;
     printImage();
 }
-thumb25.onclick = function() {
-    currentPhoto = 25;
-    printImage();
-}
-thumb26.onclick = function() {
-    currentPhoto = 26;
-    printImage();
-}
-thumb27.onclick = function() {
-    currentPhoto = 27;
-    printImage();
-}
-thumb28.onclick = function() {
-    currentPhoto = 28;
-    printImage();
-}
-thumb29.onclick = function() {
-    currentPhoto = 29;
-    printImage();
-}
-thumb30.onclick = function() {
-    currentPhoto = 30;
-    printImage();
-}
-thumb31.onclick = function() {
-    currentPhoto = 31;
-    printImage();
-}
+
 /*
 Failed attempts at syncing thumbnail and the image at the viewer area, making the viewer show the image clicked at the thumbnail section
 Also highlight the thumbnail of the image being showed at the viewer area

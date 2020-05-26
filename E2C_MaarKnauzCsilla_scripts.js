@@ -2,15 +2,15 @@ let data = {
     photo: ['./E2C_MaarKnauzCsilla_meduza.jpg', './E2C_MaarKnauzCsilla_frottazs.jpg', 
     './E2C_MaarKnauzCsilla_husvet_1.jpg', './E2C_MaarKnauzCsilla_husvet_2.jpg',
     './E2C_MaarKnauzCsilla_hal.jpg', 
-    './E2C_MaarKnauzCsilla_kepeslap_1.jpg',  './E2C_MaarKnauzCsilla_kepeslap_2.jpg', 
+    './E2C_MaarKnauzCsilla_kepeslap_2.jpg', 
     './E2C_MaarKnauzCsilla_kepeslap_3.jpg', 
-    './E2C_MaarKnauzCsilla_akvarium.jpg'
+    './E2C_MaarKnauzCsilla_akvarium.jpg', './E2C_MaarKnauzCsilla_vitorlas.jpg'
 ],
     title: ['Medúza', 'Frottázsolt halak', 
     'Húsvét', 'Húsvét', 
-    'Szövött Halacska', 'Anyák napi képeslap',
-    'Anyák napi képeslap',  'Anyák napi képeslap', 'Akvárium készítése'
-    ],
+    'Szövött Halacska',
+    'Anyák napi képeslap',  'Anyák napi képeslap', 'Akvárium készítése', 'Vitorlás'
+    ], 
     description: ['...',
     '...',
     '...',

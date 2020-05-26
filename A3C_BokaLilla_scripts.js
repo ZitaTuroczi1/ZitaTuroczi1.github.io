@@ -4,12 +4,12 @@ let data = {
     './A3C_BokaLilla_kepeslap.jpg', './A3C_BokaLilla_malac.jpg',  
     './A3C_BokaLilla_pillango.jpg', 
     './A3C_BokaLilla_baba.jpg', 
-    './A3C_BokaLilla_mecses.jpg'
+
 ],
     title: ['Papírváros', '3D-s város', 
     'Húsvét', 'Papírjácint', 
     'Varrott képeslap', 'Malacpersely',
-    'Pillangó hajtogatása', 'Zokni baba', 'Mécsestartó befőttes üvegből'
+    'Pillangó hajtogatása', 'Zokni baba', 
     ],
     description: ['...',
     '...',
@@ -56,8 +56,7 @@ let thumb4 = document.getElementById('4');
 let thumb5 = document.getElementById('5');
 let thumb6 = document.getElementById('6');
 let thumb7 = document.getElementById('7');
-let thumb8 = document.getElementById('8');
-let thumb9 = document.getElementById('9');
+
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -103,13 +102,9 @@ function printImage(){
     } else {
         thumb7.style.background = 'inherit';
     }
-    if (currentPhoto === 8) {
-        thumb8.style.background = 'green';
-    } else {
-        thumb8.style.background = 'inherit';
-    }
-}
 
+}
+ 
 printImage();
 
 up.onclick = function() {
@@ -124,7 +119,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 9;
+        currentPhoto = 7;
         printImage();
     } else {
         currentPhoto--;
@@ -165,10 +160,7 @@ thumb7.onclick = function() {
     currentPhoto = 7;
     printImage();
 }
-thumb8.onclick = function() {
-    currentPhoto = 8;
-    printImage();
-}
+
 
 
 /*
