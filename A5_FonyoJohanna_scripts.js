@@ -1,14 +1,14 @@
 let data = {
-    photo: ['./A5_FonyoJohanna_tisztaszoba_1.jpg', './A5_FonyoJohanna_tisztaszoba_2.jpg', './A5_FonyoJohanna_papirkoszoru_1.jpg',
-     './A5_FonyoJohanna_papirkoszoru_2.jpg', './A5_FonyoJohanna_anyaknapja.jpg', './A5_FonyoJohanna_ceruzatarto.jpg', './A5_FonyoJohanna_kepkeret.jpg'],
-    title: ['Tisztaszoba', 'Tisztaszoba', 'Papírkoszorú', 'Papírkoszorú', 'Anyák napja', 'Ceruzatartó készítése', 'Kép és kerete'],
+    photo: ['./A5_FonyoJohanna_tisztaszoba.jpg', './A5_FonyoJohanna_papirkoszoru.jpg',
+      './A5_FonyoJohanna_anyaknapja.jpg', './A5_FonyoJohanna_ceruzatarto.jpg', './A5_FonyoJohanna_kepkeret.jpg'],
+    title: ['Tisztaszoba',  'Papírkoszorú',  'Anyák napja', 'Ceruzatartó készítése', 'Kép és kerete'],
     description: ['...',
     '...',
     '...',
     '...',
     "...",
     '...',
-    '...'    
+    '...'     
 ]
 };
 let img = document.getElementById('img-container');
@@ -44,8 +44,7 @@ let thumb1 = document.getElementById('1');
 let thumb2 = document.getElementById('2');
 let thumb3 = document.getElementById('3');
 let thumb4 = document.getElementById('4');
-let thumb5 = document.getElementById('5');
-let thumb6 = document.getElementById('6');
+
 
 function printImage(){
     img.style.backgroundImage = 'url('+data.photo[currentPhoto]+')';
@@ -76,16 +75,7 @@ function printImage(){
     } else {
         thumb4.style.background = 'inherit';
     }
-    if (currentPhoto === 5) {
-        thumb5.style.background = 'green';
-    } else {
-        thumb5.style.background = 'inherit';
-    }
-    if (currentPhoto === 6) {
-        thumb6.style.background = 'green';
-    } else {
-        thumb6.style.background = 'inherit';
-    }
+
 }
 
 printImage();
@@ -102,7 +92,7 @@ up.onclick = function() {
 
 down.onclick = function() {
     if (currentPhoto === 0) {
-        currentPhoto = 6;
+        currentPhoto = 4;
         printImage();
     } else {
         currentPhoto--;
@@ -131,14 +121,7 @@ thumb4.onclick = function() {
     currentPhoto = 4;
     printImage();
 }
-thumb5.onclick = function() {
-    currentPhoto = 5;
-    printImage();
-}
-thumb6.onclick = function() {
-    currentPhoto = 6;
-    printImage();
-}
+
 /*
 Failed attempts at syncing thumbnail and the image at the viewer area, making the viewer show the image clicked at the thumbnail section
 Also highlight the thumbnail of the image being showed at the viewer area

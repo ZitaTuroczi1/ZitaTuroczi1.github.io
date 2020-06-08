@@ -5,7 +5,7 @@ let data = {
      './A3A_TothBrigitta_jacint.jpg', 
    
 
-     './A3B_AndrokaAbigel_jacint.jpg', './A3B_BencsicsJanka_jacint.jpg', 
+     './A3B_AndorkaAbigel_jacint.jpg', './A3B_BencsicsJanka_jacint.jpg', 
      './A3B_CsurgaiMarta_jacint.jpg', './A3B_FenyodiBotond_jacint.jpg', 
      './A3B_HorvathKincso_jacint.jpg',  './A3B_JuhaszAntonia_jacint.jpg', 
       './A3B_PonaczKrisztian_jacint.jpg', './A3B_RokobDora_jacint.jpg',

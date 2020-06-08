@@ -5,7 +5,7 @@ let data = {
      './E2A_KrammerMark_kepeslap_2.jpg', './E2A_NerathNatalia_kepeslap.jpg',
      './E2A_PillerEszter_kepeslap_2.jpg',
 
-     './E2B_DomotorVince_kepeslap_1.jpg', './E2B_HorvatAlexandra_kepeslap_2.jpg', 
+     './E2B_DomotorVince_kepeslap_1.jpg', './E2B_HorvathAlexandra_kepeslap_2.jpg', 
      './E2B_HorvathBotond_kepeslap_2.jpg', './E2B_HorvathZsofia_kepeslap.jpg', 
      './E2B_KissValentina_kepeslap_1.jpg',  './E2B_MaricsGergo_kepeslap_1.jpg', 
       './E2B_NemesKrancsakEszter_kepeslap_2.jpg', './E2B_PakozdiEngelszZalan_kepeslap.jpg',

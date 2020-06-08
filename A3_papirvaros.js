@@ -5,7 +5,7 @@ let data = {
      './A3A_TothBrigitta_papirvaros.jpg', 
    
 
-     './A3B_AndrokaAbigel_papirvaros.jpg', './A3B_BencsicsJanka_papirvaros.jpg', 
+     './A3B_AndorkaAbigel_papirvaros.jpg', './A3B_BencsicsJanka_papirvaros.jpg', 
      './A3B_CsurgaiMarta_papirvaros.jpg', './A3B_FenyodiBotond_papirvaros.jpg', 
      './A3B_HorvathKincso_papirvaros.jpg',  './A3B_JuhaszAntonia_papirvaros.jpg', 
       './A3B_PonaczKrisztian_papirvaros.jpg', './A3B_RokobDora_papirvaros.jpg',

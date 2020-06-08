@@ -2,7 +2,7 @@ let data = {
     photo: [ 
    
 
-     './A3B_AndrokaAbigel_baba.jpg', './A3B_BencsicsJanka_baba.jpg', 
+     './A3B_AndorkaAbigel_baba.jpg', './A3B_BencsicsJanka_baba.jpg', 
      './A3B_CsurgaiMarta_baba.jpg', './A3B_FenyodiBotond_baba.jpg', 
      './A3B_HorvathKincso_baba.jpg',  './A3B_JuhaszAntonia_baba.jpg', 
       './A3B_PonaczKrisztian_baba.jpg', './A3B_RokobDora_baba.jpg',

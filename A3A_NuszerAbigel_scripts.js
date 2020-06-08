@@ -3,7 +3,6 @@ let data = {
     './A3A_NuszerAbigel_husvet.jpg', './A3A_NuszerAbigel_jacint.jpg',
     './A3A_NuszerAbigel_kepeslap.jpg', './A3A_NuszerAbigel_malac.jpg',  
     './A3A_NuszerAbigel_pillango.jpg', 
-    './A3A_NuszerAbigel_baba.jpg', 
     './A3A_NuszerAbigel_mecses.jpg'
 ],
     title: ['Papírváros', '3D-s város', 
